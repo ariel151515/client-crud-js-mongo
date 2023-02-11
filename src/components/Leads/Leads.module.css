@@ -1,0 +1,40 @@
+.box {
+    display: flex;
+    color: black;
+    background-color: bisque;
+    padding-bottom: 30px;
+    margin-top: 50px;
+  }
+
+  .box ul li {
+    justify-content: center;
+    display: inline-block;
+    vertical-align: middle;
+    list-style: none;
+  }
+  
+  p{
+    margin-left: 10px;
+    display: flex;
+  }
+  
+  .contenedorBtn {
+   margin-left: 570px;
+   margin-top: -70px;
+   display: flex;
+  }
+  
+  .btn {
+    width: 100px;
+    height: 30px;
+    color: #fff;
+    background: rgb(42, 42, 223);
+    margin-right: 5px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-top: 5px;
+    text-align: center;
+    padding-top: 10px;
+  }
+
+
