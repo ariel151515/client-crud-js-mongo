@@ -16,5 +16,3 @@ function App() {
 }
 
 export default App;
-
-// tanbien se sube siiiiiii
